@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+.env
+data/uploads/
+data/registry.json
+qdrant_storage/
+.git/
+.gitignore
+tests/
+README.md

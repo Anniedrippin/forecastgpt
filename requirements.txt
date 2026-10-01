@@ -1,0 +1,40 @@
+# --- Web / API ---
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9
+pydantic==2.9.2
+pydantic-settings==2.5.2
+
+# --- Frontend ---
+streamlit==1.38.0
+
+# --- GenAI / Agent orchestration ---
+langgraph==0.2.34
+langchain==0.3.3
+langchain-core==0.3.10
+langchain-groq==0.2.0
+groq==0.11.0
+
+# --- Vector DB + embeddings (100% local / free) ---
+qdrant-client==1.11.3
+sentence-transformers==3.1.1
+
+# --- Data / ML / Forecasting ---
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.2
+statsmodels==0.14.2
+xgboost==2.1.1
+scipy==1.13.1
+
+# --- Visualization ---
+plotly==5.24.1
+
+# --- Utilities ---
+python-dotenv==1.0.1
+requests==2.32.3
+loguru==0.7.2
+
+# --- Testing ---
+pytest==8.3.3
+httpx==0.27.2

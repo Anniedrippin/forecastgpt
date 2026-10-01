@@ -1,0 +1,50 @@
+{
+  "460f7583": {
+    "dataset_id": "460f7583",
+    "filename": "example_sales.csv",
+    "n_rows": 730,
+    "date_column": "date",
+    "value_column": "sales",
+    "start_date": "2023-01-01",
+    "end_date": "2024-12-30",
+    "inferred_frequency": "D",
+    "uploaded_at": "2026-10-01T07:03:44.190163+00:00",
+    "csv_path": "data\\uploads\\460f7583.csv"
+  },
+  "1fcd1503": {
+    "dataset_id": "1fcd1503",
+    "filename": "example_sales.csv",
+    "n_rows": 730,
+    "date_column": "date",
+    "value_column": "sales",
+    "start_date": "2023-01-01",
+    "end_date": "2024-12-30",
+    "inferred_frequency": "D",
+    "uploaded_at": "2026-10-01T07:14:03.631855+00:00",
+    "csv_path": "data\\uploads\\1fcd1503.csv"
+  },
+  "82d2da8f": {
+    "dataset_id": "82d2da8f",
+    "filename": "example_sales.csv",
+    "n_rows": 730,
+    "date_column": "date",
+    "value_column": "sales",
+    "start_date": "2023-01-01",
+    "end_date": "2024-12-30",
+    "inferred_frequency": "D",
+    "uploaded_at": "2026-10-01T07:21:29.019955+00:00",
+    "csv_path": "data\\uploads\\82d2da8f.csv"
+  },
+  "6e03813e": {
+    "dataset_id": "6e03813e",
+    "filename": "example_sales.csv",
+    "n_rows": 730,
+    "date_column": "date",
+    "value_column": "sales",
+    "start_date": "2023-01-01",
+    "end_date": "2024-12-30",
+    "inferred_frequency": "D",
+    "uploaded_at": "2026-10-01T07:34:59.763391+00:00",
+    "csv_path": "data\\uploads\\6e03813e.csv"
+  }
+}
